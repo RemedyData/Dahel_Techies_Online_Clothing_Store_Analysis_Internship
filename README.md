@@ -117,7 +117,7 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 
 
   - Furthermore, Several structured queries were written to get the right tables and then saved as views in the Database on PostgreSQL.
-    The tabels and views are:
+    The tables and views are:
 
 
    

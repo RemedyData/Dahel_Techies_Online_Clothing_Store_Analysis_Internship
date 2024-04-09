@@ -1,17 +1,16 @@
 # Dahel_Techies_Online_Clothing_Store_Analysis_Internship
-Dahel Consultant and Techies: Sales Analysis; A deep dive into Online Clothing Store Sales data, aimed at extracting valuable  insights to enhance strategic decision-making. <sub> I HAVE BEEN HIRED AS A DATA ANALYST FOR AN ONLINE.</sub>
-CLOTHING STORE.
-(*The picture below is gotten from              Website*). 
+Dahel Consultant and Techies: Sales Analysis; A deep dive into Online Clothing Store Sales data, aimed at extracting valuable  insights to enhance strategic decision-making. I have been hired as a data  analyst for an online clothing store.
+(*The picture below is gotten from Robosize Website*). 
 
 
-Robosize
+
+
+
+
 ![image](https://github.com/RemedyData/Dahel_Techies_Online_Clothing_Store_Analysis_Internship/assets/137626163/820e28f3-7b1d-46c2-97fd-84e7edb51eed)
 
 
 
-
-Top Ten Wow
-![image](https://github.com/RemedyData/Dahel_Techies_Online_Clothing_Store_Analysis_Internship/assets/137626163/a82df4cc-84b0-47c9-a2e1-2d89e3622efd)
 
 
 
@@ -121,15 +120,30 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
     The tabels and views are:
 
 
+   
    Table before splitting
    ![image](https://github.com/RemedyData/Dahel_Techies_Online_Clothing_Store_Analysis_Internship/assets/137626163/2b6cdec7-53af-4e4b-a4bd-a9f235b935f1)
 
+   
+   
+   
+   
    The customer table
    ![image](https://github.com/RemedyData/Dahel_Techies_Online_Clothing_Store_Analysis_Internship/assets/137626163/39bc4956-4ce9-42ba-9860-81715ad51de1)
 
+   
+   
+   
+   
+   
    The date table
    ![image](https://github.com/RemedyData/Dahel_Techies_Online_Clothing_Store_Analysis_Internship/assets/137626163/834fa9f2-8b77-4999-b050-0552c1eea3d1)
 
+   
+   
+   
+   
+   
    The sales table
    ![image](https://github.com/RemedyData/Dahel_Techies_Online_Clothing_Store_Analysis_Internship/assets/137626163/62c1857b-2664-469e-a17f-7584bb46e04c)
 
